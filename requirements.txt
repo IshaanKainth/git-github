@@ -1,4 +1,6 @@
 git init
 git status
 git add 
-git commit
+git commit 
+git remote set-url origin https://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@github.com/IshaanKainth/git-github.git
+git push origin master
